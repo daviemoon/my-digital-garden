@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Storia dell'Asia/Lezione 4/Riforme Meiji 1 1 1/"}
 ---
 
+
 # Riforme Meiji [parte 2]
 
 ### Evoluzione delle Classi Sociali
