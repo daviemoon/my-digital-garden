@@ -28,10 +28,7 @@ La cessione delle terre segna la fine delle grandi concentrazioni di potere loca
 
 #### FINE DEI SAMURAI
 
-<!--⚠️Imgur upload failed, check dev console-->
-
-![Pasted image 20240827182722.png](/img/user/Frichettoni/Pasted%20image%2020240827182722.png)![Pasted image 20240827182727.png](/img/user/Frichettoni/Pasted%20image%2020240827182727.png)
-![Riforme Meiji-20240810165957176.jpg|543](/img/user/Frichettoni/Riforme%20Meiji-20240810165957176.jpg)
+ 
 <font size=1> <b>Figure 5.2</b> "Illustration for a samurai legend" (Adachi Ginko, 1896, Arthur M. Sackler Gallery, Smithsonian National Museum of Asian Art) </span>
 
 Nel 1873 in Giappone viene introdotta la **leva obbligatoria**, la riforma prevedeva l’obbligo di
@@ -49,16 +46,6 @@ I samurai nella seconda metà del secolo XIX agirono da forza propulsiva per att
 ##### RIBELLIONE SATSUMA
 
 
-
-<!--⚠️Imgur upload failed, check dev console-->
-
-![dezoomify-result(8).jpg](/img/user/Frichettoni/dezoomify-result(8).jpg)
-
-
-
-
-
-![Riforme Meiji-20240810170849188.jpg|573](/img/user/Frichettoni/Riforme%20Meiji-20240810170849188.jpg)
 <font size=1> <b>Figure 5.3</b> "Samurai fighting, Satsuma rebellion" (Tsukioka Yoshitoshi, circa 1877, Te Papa) </span>
 
 Nel 1877 una **ribellione si alza da Satsuma**, con alla guida **Takamori Saigo**, statista determinante nella Restaurazione Meiji e che era stato promotore di un’invasione della Corea. 
