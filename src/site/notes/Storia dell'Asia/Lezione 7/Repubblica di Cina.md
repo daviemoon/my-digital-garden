@@ -110,7 +110,7 @@ Borodin e i sovietici **contribuiscono alla nascita del Primo Fronte Unito,** co
 
 ### Profilo generale del Partito Comunista Cinese  
 
-<svg xmlns="http://www.w3.org/2000/svg" width="178" height="600" viewBox="-15 -11 144 96" fill="#ff0"><path d="M-15-11h144v96h-144z" fill="#ee1c25"/><path d="M4 14l7.923966-7.923966A5.315073 5.315073 0 0 0 17 5l2.5 2.5-4 4L33 29l-4 4-17.5-17.5-3 3zm.5 8.5a16.62077 16.62077 0 0 0 12 5.12077A11.12077 11.12077 0 0 0 27.62077 16.5 16.62077 16.62077 0 0 0 17 1a16 16 0 0 1 0 32 18 18 0 0 1-14.979984-8.020016zM3 29l2-2 2 2-2 2z"/><circle cx="3.5" cy="30.5" r="2.5"/></svg>
+<img src="https://i.imgur.com/84LHtlh.png" alt="Description of the image" style="width: 20%; height: auto;">
 
 - Fondato nel 1921 da 李大釗 (Li Dazhao) e 陳獨秀 (Chen Duxiu).
 - 毛澤東 (Mao Zedong) e 劉少奇 (Liu Shaoqi) sono tra i giovani membri del PCC che organizzano azioni sindacali negli anni 20;
@@ -120,7 +120,7 @@ Borodin e i sovietici **contribuiscono alla nascita del Primo Fronte Unito,** co
 
 ### Profilo generale del Kuomintang
 
-<svg xmlns="http://www.w3.org/2000/svg" width="183" height="600" fill="#fff"><path d="M0 0h900v600H0" fill="#000095"/><path d="M450 75l-112.5 419.856L644.856 187.5 225 300l419.856 112.5L337.5 105.144 450 525l112.5-419.856L255.144 412.5 675 300 255.144 187.5 562.5 494.856 450 75"/><circle cy="300" cx="450" r="120" stroke="#000095" stroke-width="15"/></svg>
+<img src="https://i.imgur.com/8nxv5TO.png" alt="Taiwan" width="30%">
 
  
 - Fondato nel 1912 sulla base dei Tre principi del popolo di Sun Yat-sen;
@@ -130,6 +130,7 @@ Borodin e i sovietici **contribuiscono alla nascita del Primo Fronte Unito,** co
 - • Dal 1949 al 2000 il KMT ha governato la Repubblica di Cina a Taiwan, in una dittatura mono-partitica sotto Chiang Kai-Shek fino alla sua morte nel 1987, con le prime elezioni libere tenute nel 1996
 
 ### Chiang Kai-shek
+
 
 
 
