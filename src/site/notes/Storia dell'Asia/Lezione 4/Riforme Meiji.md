@@ -9,8 +9,8 @@
 ### Evoluzione classi sociali
 
 #### I DAIMYO
+![](https://i.imgur.com/LduiOrQ.png)
 
-![Riforme Meiji-20240810164827548.jpg|317](/img/user/Frichettoni/Riforme%20Meiji-20240810164827548.jpg)
 <font size=1> <b>Figure 5.1</b> Mori Takachika (1819-1871), the last daimyo of Choshu. </font>
 
 Ai fini dell’unificazione del paese (vedi [[Storia dell'Asia/Lezione 4/Meiji Reforms.excalidraw\|Meiji Reforms.excalidraw]]) , nel 1869, avviene un atto di spontanea volontà di cessione dei propri territori all’imperatore da parte dei daimyo di Satsuma, Choshu, Tosa e Hitzen. Segue questo atto un **proveddimento del 1871 di confisca degli ex “han” e l’istituzione di un nuovo sistema amministrativo moderno**.
@@ -28,6 +28,9 @@ La cessione delle terre segna la fine delle grandi concentrazioni di potere loca
 
 #### FINE DEI SAMURAI
 
+<!--⚠️Imgur upload failed, check dev console-->
+
+![Pasted image 20240827182722.png](/img/user/Frichettoni/Pasted%20image%2020240827182722.png)![Pasted image 20240827182727.png](/img/user/Frichettoni/Pasted%20image%2020240827182727.png)
 ![Riforme Meiji-20240810165957176.jpg|543](/img/user/Frichettoni/Riforme%20Meiji-20240810165957176.jpg)
 <font size=1> <b>Figure 5.2</b> "Illustration for a samurai legend" (Adachi Ginko, 1896, Arthur M. Sackler Gallery, Smithsonian National Museum of Asian Art) </span>
 
@@ -44,6 +47,17 @@ La leva obbligatoria, pertanto, scardina l’assetto per cui i samurai detenevan
 I samurai nella seconda metà del secolo XIX agirono da forza propulsiva per attuare l’unificazione e la modernizzazione del paese. Parte di essi (Samurai conservatori) erano contrari all’apertura  verso l’Occidente e all’abbandono della cultura tradizionale
 
 ##### RIBELLIONE SATSUMA
+
+
+
+<!--⚠️Imgur upload failed, check dev console-->
+
+![dezoomify-result(8).jpg](/img/user/Frichettoni/dezoomify-result(8).jpg)
+
+
+
+
+
 ![Riforme Meiji-20240810170849188.jpg|573](/img/user/Frichettoni/Riforme%20Meiji-20240810170849188.jpg)
 <font size=1> <b>Figure 5.3</b> "Samurai fighting, Satsuma rebellion" (Tsukioka Yoshitoshi, circa 1877, Te Papa) </span>
 
@@ -61,7 +75,9 @@ Takamori Saigo si suicida, considerato dal popolo come un eroe tragico e pochi a
 
 ### Fukuzawa Yukichi
 
-![Riforme Meiji-20240810171913718.jpg|333](/img/user/Frichettoni/Riforme%20Meiji-20240810171913718.jpg)
+![](https://i.imgur.com/t5qq3Lf.png)
+
+
 <font size=1> <b>Figure 5.4</b> "Fukuzawa Yukichi, founder of Keio University" (1954, University of Cambridge, UK) </span>
 
 
@@ -75,7 +91,8 @@ Entro il 1912, il Giappone è già diventato una grande potenza, scambiando amba
 
 #### Il legame all’Asia come ostacolo
 
-![Riforme Meiji-20240810172132793.jpg|557](/img/user/Frichettoni/Riforme%20Meiji-20240810172132793.jpg)
+![](https://i.imgur.com/h2ZZFvc.jpeg)
+
 <font size=1> <b>Figure 5.5 - </b>“The Army Advancing on the Ice to Attack Weihaiwei”  (Kobayashi Kiyochika, woodblock print, 1895)</span>
 
 L'ideologia che sostiene l'espansione giapponese all'estero prende forma anche grazie a Fukuzawa, che individua nel legame con l'Asia un ostacolo alla realizzazione del ***bunmei kaika*** . Egli sostiene che il Giappone debba guidare la "civilizzazione" dell'Asia Orientale, ispirandosi alle idee occidentali come il **Darwinismo sociale,** che giustificava il dominio dei popoli più avanzati su quelli arretrati.
@@ -88,7 +105,8 @@ Fukuzawa affronta anche la questione dell'identità giapponese, proponendo che s
 
 #### Contraddizioni interne al progetto imperialista
 
-![Riforme Meiji-20240811111828528.webp|442](/img/user/Frichettoni/Riforme%20Meiji-20240811111828528.webp)
+![](https://i.imgur.com/TOCiOFb.png)
+
 <font size=1> <b>Figure 5.6 - </b> "A classroom in Taiwan during the Japanese period." (228 Memorial Foundation) </span>
 
 La proposta di Tokugawa però, è in contrasto con il progetto imperialista, che richiede che il **"più grande Giappone" accolga sudditi esterni.** Nei territori occupati, la supremazia giapponese si sarebbe imposta tramite una **politica di assimilazione (*dōka*)**, basata sull'idea che i popoli dell'Asia Orientale condividano la stessa cultura e razza.
