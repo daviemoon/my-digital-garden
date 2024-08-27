@@ -27,7 +27,7 @@ La cessione delle terre segna la fine delle grandi concentrazioni di potere loca
 
 #### Fine dei Samurai
 
-<font size=1> <b>Figure 5.2</b> "Illustration for a samurai legend" (Adachi Ginko, 1896, Arthur M. Sackler Gallery, Smithsonian National Museum of Asian Art) </span>
+<font size=1> <b>Figure 5.2</b> "Illustration for a samurai legend" (Adachi Ginko, 1896, Arthur M. Sackler Gallery, Smithsonian National Museum of Asian Art) </font>
 
 
 Nel 1873 in Giappone viene introdotta la **leva obbligatoria**, la riforma prevedeva l’obbligo di prestare tre anni di servizio attivo a tutti i maschi che avevano compiuto venti anni, a prescindere dalla loro provenienza sociale.
