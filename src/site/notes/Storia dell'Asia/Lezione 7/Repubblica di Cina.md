@@ -125,11 +125,27 @@ Borodin e i sovietici **contribuiscono alla nascita del Primo Fronte Unito,** co
  
 - Fondato nel 1912 sulla base dei Tre principi del popolo di Sun Yat-sen;
 - Dopo la morte di Sun (1925) Wang Jingwei e Hu Hanmin assumono la guida del KMT;
-- Chiang Kai-shek divenne il leader del KMT (1926),
+- Chiang Kai-shek diventa il leader del KMT (1926),
 - Il governo repubblicano è guidato dal KMT come partito unico nel decennio di Nanchino (1928-1937) 
 - • Dal 1949 al 2000 il KMT ha governato la Repubblica di Cina a Taiwan, in una dittatura mono-partitica sotto Chiang Kai-Shek fino alla sua morte nel 1987, con le prime elezioni libere tenute nel 1996
 
 ### Chiang Kai-shek
+
+- Comandante dell’Accademia Militare di Whampoa（黃埔軍校）
+- Leader del **KMT** dal 1926 dopo la morte di Sun
+- Presidente della Repubblica di Cina:
+	- 1928-1949, Cina "mainland" (中国大陸), 
+	- 1949-1987 ✝,  Taiwan
+
+#### Elementi ideologici
+- Promotore e ispiratore di un ideologia nazionalista, con elementi che vanno verso il fascismo, soprattutto nella *Blue Shirt Society* (藍衣社) come il  corporativismo 
+
+#### Sviluppo industriale e modernizzazione
+- The new government of the Republic of China also had highly ambitious plans for the rapid development of a modern, industrialized, and technologically advanced Chinese nation. Through funding by the National Economic Council, a network of modern motorways, railways, and air transportation links was rapidly expanded. Science and engineering were energetically promoted. But, again, the actual results fell far short of the hopes. 
+(Nationalist China.” In _A History of East Asia_. Cambridge University Press, 2017.)
+
+#### Internalizzazione
+-  Il governo di Chiang a Nanchino è caratterizzato da un processo di internalizzazione e apertura agli stranieri, come esemplificata dalla metropoli di **Shanghai** 上海.
 
 
 
